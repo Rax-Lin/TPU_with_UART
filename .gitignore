@@ -1,0 +1,26 @@
+# Vivado generated output
+.Xil/
+*.jou
+*.log
+*.str
+*.backup.*
+*.cache/
+*.gen/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.srcs/sources_1/ip/*/hdl/
+*.srcs/sources_1/ip/*/synth/
+*.srcs/sources_1/ip/*/sim/
+*.srcs/sources_1/ip/*/doc/
+*.srcs/sources_1/ip/*/example_design/
+*.srcs/sources_1/ip/*/*.dcp
+*.bit
+*.bin
+
+# Python and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
